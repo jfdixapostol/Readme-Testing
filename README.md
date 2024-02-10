@@ -10,6 +10,8 @@
 <h1 align="center"> Spherical Manipulator - Modern Variant </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICALV3_G7_Assignment_2024/assets/157677365/795951e8-2e46-4d88-9553-c9e4496f6445 alt=421104205_1112588316427435_3085584977259888265_n width="900"/>
+<h1 align="center:> Figure 1.1: Kinematic Diagram and Parametric Table of Spherical Manipulator </h1>
+  <p align="center">
 </p>
 <br>
 
